@@ -1,0 +1,76 @@
+.toplevel_page_neexa-ai-settings .wp-menu-image img {
+    padding: 5px 0 0 !important;
+}
+
+/* Global Styles */
+
+.wrap.neexa-settings,
+.wrap.neexa-how-it-works {
+    font-family: 'Helvetica', sans-serif;
+    max-width: 800px;
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #e1e1e1;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #0073aa;
+}
+
+/* Neexa Settings Page Styles */
+.neexa-settings form {
+    margin-top: 20px;
+}
+
+.neexa-settings form .assistant-id {
+    min-width: 70%;
+}
+
+.neexa-settings .description {
+    margin-top: 10px;
+    font-style: italic;
+}
+
+.neexa-settings .help-section {
+    margin-top: 20px;
+}
+
+.neexa-settings .button-primary {
+    background-color: #0073aa;
+    color: #fff;
+    border: none;
+}
+
+.neexa-settings .button-primary:hover {
+    background-color: #005e88;
+}
+
+/* How It Works Page Styles */
+.neexa-how-it-works .step {
+    margin-top: 20px;
+}
+
+.neexa-how-it-works h3 {
+    color: #0073aa;
+}
+
+.neexa-how-it-works ol {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.neexa-how-it-works a.button-secondary {
+    background-color: #0073aa;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.neexa-how-it-works a.button-secondary:hover {
+    background-color: #005e88;
+}
